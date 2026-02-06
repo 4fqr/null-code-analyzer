@@ -10,7 +10,7 @@ We take security seriously. If you discover a vulnerability in NULL-CODE-ANALYZE
 
 ### Preferred Contact Method
 
-- **Email**: security@nullcode.dev
+- **Email**: nullsector@atomicmail.io
 - **PGP Key**: [Available on request]
 - **Response Time**: Within 48 hours
 
